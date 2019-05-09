@@ -1,0 +1,27 @@
+Path: T:\mialab\users\airaji\data\fbirn\ICA_6mm\ICs20
+
+Subject time course: _sub*_timecourses_ica_s1_.nii (remove the first 5 time points)
+
+components:
+1) ART (Artifact)
+2) ICN: LPFN
+3) ICN: VIS Pri
+4) ICN: MTR
+5) ICN: Sub
+6) ICN: DMN (*)
+7) ART
+8) ICN: Cereb
+9) ICN: SN (*)
+10) ICN: Vis Sec
+11) ICN: Aud
+12) ICN:RPFN
+13) ART
+14) 
+15) ICN: ATN (*)
+16) ART
+17) ICN: Lang
+18)
+19) ART
+20) ART
+
+
